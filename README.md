@@ -1,1 +1,1 @@
-# Greedy-Florist
+# Greedy-Florist This code calculates the minimum total cost for buying flowers when `k` friends buy them in turns, applying an increasing multiplier for each subsequent purchase by the same friend. It sorts the flower prices in descending order and sums the costs, multiplying each price by the number of previous rounds that friend has already bought.
